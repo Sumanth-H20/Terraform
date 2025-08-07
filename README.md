@@ -32,3 +32,9 @@ now run the command to configure
 aws configure 
 
 it will ask for access key and serete key provide them. - enter
+
+
+
+
+<img width="1451" height="502" alt="image" src="https://github.com/user-attachments/assets/609af633-c155-483c-96b6-4c3d47b3c580" />
+
